@@ -1,9 +1,9 @@
 package com.upgrad.FoodOrderingApp.service.businness;
 
 import com.upgrad.FoodOrderingApp.service.dao.CategoryDao;
-//import com.upgrad.FoodOrderingApp.service.dao.PaymentDao;
+
 import com.upgrad.FoodOrderingApp.service.entity.CategoryEntity;
-//import com.upgrad.FoodOrderingApp.service.entity.PaymentEntity;
+
 import com.upgrad.FoodOrderingApp.service.entity.CategoryItemEntity;
 import com.upgrad.FoodOrderingApp.service.exception.CategoryNotFoundException;
 import org.springframework.beans.factory.annotation.Autowired;
